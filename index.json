@@ -1,0 +1,11 @@
+{
+  "org": "litestar-org",
+  "repo": "litestar.dev",
+  "versions": [
+    {
+      "commit": "9e5f55dffc05b19887f3eda923195b5652c44cb2",
+      "tag": "",
+      "parsed_at": "2026-10-11T22:11:59.114557+00:00"
+    }
+  ]
+}
